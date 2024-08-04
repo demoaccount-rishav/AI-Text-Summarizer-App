@@ -31,8 +31,7 @@ function submitData(e) {
   const requestOptions = {
     method: "POST",
     headers: myHeaders,
-    body: raw,
-    // redirect: "follow"
+    body: raw
   };
 
   fetch("/summarize", requestOptions)
