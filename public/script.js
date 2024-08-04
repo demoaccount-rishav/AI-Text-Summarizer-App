@@ -32,7 +32,7 @@ function submitData(e) {
     method: "POST",
     headers: myHeaders,
     body: raw,
-    redirect: "follow"
+    // redirect: "follow"
   };
 
   fetch("/summarize", requestOptions)
