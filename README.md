@@ -1,5 +1,5 @@
 
-# Project Title
+# AI Text Summarizer App
 
 This is a web project, made with the help of hugging face api and postman. For the frontend, the website uses html, css and vanilla javascript . 
 
